@@ -1,5 +1,6 @@
 // Copyright Notice 2026*
 // This code is free to use, modify, sell, or publish by anyone who obtains a copy of it.
+// Copiright by David-DIY Inventions
 
 #define BLYNK_TEMPLATE_ID   "YOUR_TEMPLATE_ID"
 #define BLYNK_TEMPLATE_NAME "Light Switch"
